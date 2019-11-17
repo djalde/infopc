@@ -10,7 +10,8 @@
     },
     {
         "nome":"cpu",
-        "valor": "50%",
+        "used": "37%",
+        "free": "63%"
         "description": "Intel Celeron"
     },
     {
